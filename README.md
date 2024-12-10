@@ -3,6 +3,7 @@
 
 <p>
 
+![이력서 첨부되냐 pdf-1-1](https://github.com/user-attachments/assets/b97151d9-a727-413e-973d-b8be9111378f)
 
 
   
