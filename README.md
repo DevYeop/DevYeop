@@ -1,6 +1,54 @@
+## 기술스택
+
+### 언어
+<p> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+</p>
+
+### 프론트엔드
+
+<p>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+</p>
+
+### 백엔드
+
+<p>
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Koa-000000?style=flat-square&logo=Koa&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+</p>
+
+### 데이터베이스
+
+<p>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+</p>
+
+### 인프라
+<p>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+</p>
+
+
+
 ## 경험
 | 기간                   | 활동 내용                                                                                  |
 |------------------------|-------------------------------------------------------------------------------------------|
+| 2025.05 ~ (예정)     |  (주)더조은홈 - CTO, 화주사와 3PL 업체 간의 협업과 데이터를 통합적으로 관리할 수 있는 B2B 플랫폼 기획 및 개발|
 | 2024.10.25 - 2025.05.03 | (주) 스타트업코드 - 카카오 테크 부트캠프 보조강사, 클라우드 네이티브 제주 2기 담당          |
 | 2024.11.01 - 2025.12.31 | 경희대학교 - 캠퍼스타운사업단 Master 멘토단. 전문기술분야 자문교수                          |
 | 2024.12.13             | 교육자문회 - 유메이커스 교육자문회의, 커리큘럼 자문                                         |
@@ -27,130 +75,3 @@
 | 2017.02.22    | 컴퓨터공학사 취득 (학점은행제 및 독학사 병행, 군 복무 중 취득)      |
 | 2017.05.26    | 정보처리기사 자격증 취득                                             |
 
-
-![이력서 첨부되냐 pdf-1-1](https://github.com/user-attachments/assets/b97151d9-a727-413e-973d-b8be9111378f)
-
-[이력서 - 이상엽.pdf](https://github.com/user-attachments/files/18080696/-.pdf)
-
-<p>
-
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>    
-  </p>
-</p>
-<p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  </p>
-<p>
-  Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
-
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-    💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
-</p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C695%20hrs%2037%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 444 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-🌆 Daytime                15237 commits       ████████████░░░░░░░░░░░░░   49.96 % 
-🌃 Evening                10804 commits       █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌙 Night                  2204 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5351 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  5412 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                6358 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Thursday                 4764 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   4089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Saturday                 2304 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Sunday                   2222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    4 hrs 6 mins        ████████████████████░░░░░   81.81 % 
-sh                       41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🔥 Editors: 
-Chrome                   4 hrs 1 min         ████████████████████░░░░░   80.19 % 
-Zsh                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-
-💻 Operating System: 
-Windows                  4 hrs 1 min         ████████████████████░░░░░   80.19 % 
-WSL                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-```
-
-
-
- Last Updated on 08/10/2024 00:05:59 UTC
-<!--END_SECTION:waka-->
-</details>
