@@ -22,16 +22,15 @@
 
 <p>
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Koa-000000?style=flat-square&logo=Koa&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 </p>
 
-
 ### 데이터베이스
-
 <p>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white"/>
