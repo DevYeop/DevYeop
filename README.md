@@ -1,6 +1,15 @@
+
+``
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)의+프로필+입니다;화면을+아래로+내려주세요+🙂)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
+
 ## 기술스택
 
-### 언어
+### 언어``
 <p> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
