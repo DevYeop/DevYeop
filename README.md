@@ -1,4 +1,7 @@
-
+최근 현황
+	- 외주 수주 협의 중..
+	- 특강대비 교안 작성 배포 준비중..
+  - 코딩교육 팀플젝기간 대비 교안 사전 작성 및 배포 준비중..
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)의+프로필+입니다;화면을+아래로+내려주세요+🙂)](https://git.io/typing-svg)
 
