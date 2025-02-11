@@ -1,5 +1,5 @@
 
-``
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)의+프로필+입니다;화면을+아래로+내려주세요+🙂)](https://git.io/typing-svg)
 
 <div align="center">
