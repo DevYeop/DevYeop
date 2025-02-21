@@ -4,6 +4,11 @@
 - 특강대비 교안 작성 배포 준비중..
 - 코딩교육 팀플젝기간 대비 교안 사전 작성 및 배포 준비중..
 
+제일 잘 하는 요리 :
+육회
+
+![KakaoTalk_20250221_120038387](https://github.com/user-attachments/assets/c203f7e1-53b8-42ea-909f-2577acde54fc)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)의+프로필+입니다;화면을+아래로+내려주세요+🙂)](https://git.io/typing-svg)
 
 <div align="center">
