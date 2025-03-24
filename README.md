@@ -1,24 +1,18 @@
-최근 현황
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)입니다🙂;)](https://git.io/typing-svg)
 
-- 외주 수주 협의 중..
-- 특강대비 교안 작성 배포 준비중..
-- 코딩교육 팀플젝기간 대비 교안 사전 작성 및 배포 준비중..
-
+최근 현황 :
+- 카테부 제주과정 근무 중..
+  
 제일 잘 하는 요리 :
-육회
+- 육회
 
 ![KakaoTalk_20250221_120038387](https://github.com/user-attachments/assets/c203f7e1-53b8-42ea-909f-2577acde54fc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+이상엽(leo.lee)의+프로필+입니다;화면을+아래로+내려주세요+🙂)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
 
 ## 기술스택
 
-### 언어``
+### 언어
 <p> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
